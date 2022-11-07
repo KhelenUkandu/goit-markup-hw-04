@@ -461,15 +461,12 @@ body {
 
 .footer-link {
 	color: var(--white);
+	background-color: rgba(255, 255, 255, 0.1);
 }
 
-.socials-icon .footer-link {
+.footer-link .socials-icon {
 	display: block;
 	fill: currentColor;
-}
-
-.footer-link {
-	background-color: rgba(255, 255, 255, 0.1);
 }
 
 /* Portfolio */
